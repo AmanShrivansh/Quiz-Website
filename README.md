@@ -82,8 +82,8 @@ This project operates under an open-source model and is available under the [MIT
 
 I'm enthusiastic about exploring new opportunities, collaborations, and engaging discussions. Whether you have a project in mind, an innovative idea to explore, or simply wish to connect and share insights, I'm just an email or phone call away:
 
-- Email: shubhamchouksey1998@gmail.com
-- Phone: +91 9479917417
+- Email: amanshrivansh04@gmail.com
+- Phone: +91 9131680097
 
 Let's embark on new journeys together and craft innovative solutions. Thank you for visiting my quiz website, and I eagerly anticipate connecting with you!
 
@@ -91,5 +91,5 @@ Let's embark on new journeys together and craft innovative solutions. Thank you 
 
 ## Authors
 
-- [@Shubham Chouksey](https://github.com/ShubhamChouksey123)
+- [@Aman Shrivansh](https://github.com/AmanShrivansh)
 
